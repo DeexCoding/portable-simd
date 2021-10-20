@@ -1,6 +1,6 @@
 #include <portable-simd/portable-simd.h>
 
-#include <iostream>
+#include <stdio.h>
 
 int main()
 {
